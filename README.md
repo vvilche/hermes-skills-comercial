@@ -19,6 +19,27 @@ Hermes Agent es un asistente de inteligencia artificial que instalas en tu compu
 
 ---
 
+
+---
+
+## 🌐 OPCIÓN RÁPIDA: USAR HERMES POR WEB (SIN INSTALAR NADA)
+
+Si no quieres instalar nada, solo entra a este link desde tu celu o computador:
+
+### 👉 http://76.13.239.113:8899/
+
+Escribe lo que necesitas y Hermes responde. No necesitas:
+- Instalar nada
+- Abrir la terminal
+- Configurar API keys
+- Saber de programación
+
+**Es igual que WhatsApp Web pero con inteligencia artificial entrenada para TTung.**
+
+> ⚠️ Esta es la versión compartida del equipo. Si quieres tu propio Hermes personal (recomendado para uso diario), sigue la instalación abajo.
+
+---
+
 ## 📋 REQUISITOS PREVIOS
 
 Antes de instalar Hermes, necesitas tener 3 cosas:
