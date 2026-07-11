@@ -1,46 +1,60 @@
 ---
 name: licitaciones-scada
-description: Escanea licitaciones de SCADA y automatización industrial en ChileCompra con verificación contra fuente original
+description: Escanea licitaciones de SCADA y automatización en portales mineros directos. NO usar ChileCompra.
 ---
 
 # Licitaciones SCADA — Metodología de Búsqueda
 
-## Reglas ABSOLUTAS
+## ⚠️ REGLA #1: NO USAR CHILECOMPRA
 
-1. **Cada licitación debe tener su link directo a ChileCompra.** Si no hay link, no la incluyas.
-2. **Verifica que la licitación esté realmente abierta.** No incluyas licitaciones cerradas o desiertas marcándolas como activas.
-3. **No inventes montos.** Si ChileCompra no muestra el monto, pon "No informado en portal".
-4. **Revisa la fecha de publicación real.** Si una licitación es de 2024, no la presentes como de esta semana.
-5. **Siempre contrasta contra la fuente original (mercadopublico.cl).**
+ChileCompra (mercadopublico.cl) no funciona con web_search — la página requiere JavaScript y redirige al homepage. NO buscar en ChileCompra.
+
+## Fuentes Reales (buscar AQUÍ)
+
+### Portales de Compras Mineras Directas
+- **CODELCO:** codelco.com/proveedores/portal-de-compras
+- **BHP:** SAP Ariba (buscar "BHP Chile licitación automatización")
+- **SQM:** sqm.com/portal-proveedores
+- **Collahuasi:** proveedores.collahuasi.cl
+- **Gold Fields:** goldfields.cl/proveedores-locales
+
+### Portales de Noticias Mineras
+- reporteminero.cl
+- portalminero.com
+- mch.cl (Minería Chilena)
+- nuevamineria.com
+- electroindustria.cl
+
+### Licitaciones de Energía
+- coordinador.cl (Coordinador Eléctrico Nacional — obras nuevas, licitaciones PMU)
+- cne.cl (Comisión Nacional de Energía)
 
 ## Keywords (buscar en paralelo)
 
 ```
-BATCH 1 — Core:
-"SCADA" site:mercadopublico.cl
-"automatización subestación" site:mercadopublico.cl
-"sistema control" site:mercadopublico.cl
+BATCH 1 — Noticias:
+"contrato SCADA" Chile 2026 adjudicado
+"modernización subestación" Chile 2026 contrato
+"licitación automatización" minera Chile 2026
 
-BATCH 2 — Específicas:
-"telecontrol" site:mercadopublico.cl
-"RTU" site:mercadopublico.cl
-"HMI" site:mercadopublico.cl
-"PLC" site:mercadopublico.cl
-"protecciones eléctricas" site:mercadopublico.cl
-"DCS" site:mercadopublico.cl
+BATCH 2 — Específicas mineras:
+CODELCO licitación sistema control 2026
+BHP automatización subestación contrato 2026
+"SQM" "sistema control" contrato
+"Collahuasi" SCADA automatización
 ```
 
 ## Formato de Entrega
 
 ```
-| ID | Título | Organismo | Estado | Cierre | Monto | Link |
+| Fuente | Empresa | Proyecto | Alcance | Estado | Fecha | Link |
 |---|---|---|---|---|---|---|
-| 123-456 | SCADA Subestación X | Codelco | Abierta | 25/07/2026 | No informado | [link] |
+| Reporte Minero | CODELCO | SCADA División X | Automatización SE | Abierta | Jul 2026 | [link] |
 ```
 
-## Verificación
+## Reglas de Verificación
 
-Antes de entregar el resultado:
-1. Abre al menos 3 links para verificar que funcionan
-2. Confirma que el estado "Abierta" es real (no "Cerrada" ni "Desierta")
-3. Si no encuentras licitaciones nuevas esta semana, dilo honestamente: "Sin licitaciones nuevas de SCADA esta semana en ChileCompra"
+1. **Siempre incluir link a la fuente original** (noticia, portal, comunicado)
+2. **"Abierta" solo si está confirmado.** Si es rumor o mención, poner "Señal detectada"
+3. **No inventar montos.** Si la fuente no da cifras, poner "Monto no informado"
+4. **Si no hay nada esta semana:** "Sin novedades detectadas esta semana en portales mineros. Revisar nuevamente en 7 días."
