@@ -1,125 +1,154 @@
-# Viña Errázuriz — Oportunidades para CONECTA / SUPcon / Tier0
+# Grupo Errázuriz — Análisis Completo de Oportunidades
 
-## Ficha de la Empresa
+> **Actualizado Julio 2026** — El grupo Errázuriz NO es solo viñas. Es uno de los grupos económicos más grandes de Chile con intereses en minería, seguros, pesca, forestal, agricultura, automotriz y más.
 
+---
+
+## ESTRUCTURA DEL GRUPO
+
+### Minería (LA MÁS GRANDE OPORTUNIDAD)
+
+#### 🔴 Cosayach — Yodo (operación activa)
 | Dato | Detalle |
 |---|---|
-| Razón social | Viña Errázuriz S.A. |
-| Fundación | 1870 (156 años) |
-| Controlador | Familia Chadwick |
-| Presidente | Eduardo Chadwick Claro |
-| Gerente Corp. Admin/Finanzas/Ops | Andrés Izquierdo |
-| Sede | Panquehue, Valle de Aconcagua, Región de Valparaíso |
-| Producción | ~450,000 cajas/año (~4.1 millones litros) |
-| Exportación | 78 países, 85% de ventas |
-| Bodega principal | 2,980 m2 (Bodega Ícono, 2009) |
-| Certificaciones | V-Label (vegana), Certificado de Sustentabilidad |
-| Ranking mundial | 5ta marca de vino más admirada (Drink International) |
-| Energía | Paneles solares instalados |
-| Planta RILes | Planta de tratamiento de residuos líquidos industriales |
+| Tipo | S.C.M. Cosayach |
+| Fundación | 1985 |
+| Posición | 2do productor de yodo de Chile (después de SQM) |
+| Terreno | 200,000 hectáreas en Tarapacá |
+| Reservas | 300,000 tons yodo + 50M tons nitratos |
+| Producción | 6,000 tm/año yodo |
+| Plantas | Cala-Cala, Negreiros, Soledad (Pozo Almonte) |
+| Agua | Sistema agua de mar 250 L/s (900 m³/h) desde Caleta Junín |
+| Permiso | Sernageomin hasta 2030 |
+
+#### 🔴 Atacama Kozan — Cobre (JV chileno-japonesa, operación activa)
+| Dato | Detalle |
+|---|---|
+| Fundación | 2000 |
+| Producto | Concentrado de cobre alta pureza |
+| Producción | 1,800,000 tm/año |
+
+#### 🔴 Simco Lithium — Litio (proyecto aprobado)
+| Dato | Detalle |
+|---|---|
+| Ubicación | Salar de Atacama |
+| Tramitación | 17 años, recién aprobado (2025-2026) |
+| Tecnología | IBC (USA), recupera 99% del litio |
+
+#### 🔴 Proyecto Sales Maricunga — Litio + Potasio
+| Dato | Detalle |
+|---|---|
+| Inversión | US$600 millones |
+| Socio | Fondo Simbalík (Singapur) |
+| Ubicación | Salar de Maricunga |
+
+### Viñas
+- Viñedos Familia Chadwick: Errázuriz, Seña, Chadwick, Arboleda, Caliterra
+- Viña Marchihue (exporta a 30 países)
+- Producción: ~4.1M litros/año
+
+### Otras Empresas del Grupo
+- Renta Nacional (seguros, 40 años)
+- Cidef (automotriz: Kawasaki, Dongfeng, Foton)
+- Salmones de Chile (salmón, 1986)
+- Interagro (frutas/verduras congeladas, 10,000 tm/año)
+- Inconac (inmobiliaria, 35 años)
+- Litoral Pesquera (pesca, harina/aceite de pescado)
+- Agricultura: 25,000 hectáreas
+- Forestal: 35,000 hectáreas
 
 ---
 
-## 5 OPORTUNIDADES CONCRETAS
+## OPORTUNIDADES PARA CONECTA / SUPcon / TIER0
 
-### 1. 🟢 Monitoreo de Planta de Tratamiento de RILes
+### COSAYACH — 3 PLANTAS DE YODO
 
-**Por qué les duele:** En vendimia (enero-marzo) generan un peak de aguas residuales. La SMA los fiscaliza. Si no cumplen, multa y mala prensa para una marca premium.
+#### Oportunidad 1: Bombeo de Agua de Mar (250 L/s)
+- **Equipo:** 900 m³/h desde Caleta Junín hasta las plantas
+- **Qué vender:** Instrumentación SUPcon (caudalímetros electromagnéticos, sensores de presión, temperatura), monitoreo de bombas (vibración, temperatura)
+- **Ticket:** $20-40K USD
 
-**Qué vendemos:**
-- Instrumentación SUPcon: caudalímetros electromagnéticos, sensores de pH, conductividad, turbidez
-- Tablero de monitoreo Tier0: dashboard en tiempo real con registro para auditoría SMA
-- Alarma temprana si algún parámetro se sale de norma
+#### Oportunidad 2: Monitoreo Ambiental (obligatorio)
+- **Equipo:** Estaciones PM10, PM2.5, SO2 en toda la operación
+- **Qué vender:** SCADA para consolidar datos ambientales, Tier0 para dashboard de cumplimiento
+- **Ticket:** $25-50K USD
 
-**Ticket estimado:** $15-25K USD en instrumentación + $25K/año Tier0
+#### Oportunidad 3: Proceso de Lixiviación de Caliche
+- **Proceso:** Extracción de yodo por lixiviación con agua de mar
+- **Qué vender:** Control de pH, temperatura, flujo, nivel en pilas de lixiviación
+- **Ticket:** $30-60K USD
 
-**Contacto:** Andrés Izquierdo (ve operaciones) + encargado de sustentabilidad
+#### Oportunidad 4: Subestaciones Eléctricas
+- **Equipo:** Bombas de agua de mar, chancado, procesamiento
+- **Qué vender:** SCADA ELIPSE para subestaciones, PMU si son >100MW
+- **Ticket:** $80-150K USD
+
+### ATACAMA KOZAN — CONCENTRADO DE COBRE
+
+#### Oportunidad 5: Monitoreo de Equipos Rotatorios
+- **Equipo:** Chancadores, molinos, celdas de flotación (1.8M tm/año)
+- **Qué vender:** Sensores de vibración SUPcon, monitoreo predictivo Tier0
+- **Ticket:** $30-50K USD
+
+#### Oportunidad 6: Control de Procesos
+- **Proceso:** Chancado → molienda → flotación → espesamiento → filtrado
+- **Qué vender:** DCS SUPcon o SCADA ELIPSE, instrumentación de campo
+- **Ticket:** $100-200K USD
+
+### SIMCO / MARICUNGA — LITIO (GREENFIELD)
+
+#### Oportunidad 7: Tier0 desde Cero
+- **Proyecto:** Nuevo, sin sistemas legacy
+- **Qué vender:** Plataforma Tier0 completa: MQTT, TimescaleDB, Grafana, Node-RED
+- **Ticket:** $50-100K USD setup + $25K/año
+
+#### Oportunidad 8: Instrumentación de Pozos
+- **Equipo:** Pozos de extracción de salmuera (similar a SQM, Albemarle)
+- **Qué vender:** Caudalímetros, sensores de nivel, conductividad, telemetría
+- **Ticket:** $40-80K USD
+
+### VIÑAS — SUSTENTABILIDAD
+
+#### Oportunidad 9: Monitoreo de RILes
+- **Obligación legal:** SMA fiscaliza
+- **Qué vender:** Instrumentación + Tier0 dashboard de cumplimiento
+- **Ticket:** $15-25K USD
 
 ---
 
-### 2. 🟢 Control de Temperatura en Bodega de Guarda
+## RESUMEN DE TICKETS ESTIMADOS
 
-**Por qué les duele:** Tienen vinos ícono (Don Maximiano, KAI, Seña) que pasan 12-24 meses en barrica. Una fluctuación de temperatura de 3°C puede arruinar una partida de $500K USD. La bodega ícono de 2,980 m2 requiere control preciso.
-
-**Qué vendemos:**
-- Sensores de temperatura y humedad inalámbricos por sectores de bodega
-- Tier0 centralizando todos los datos en un dashboard
-- Alertas si la temperatura se sale del rango (12-16°C para tinto en guarda)
-
-**Ticket estimado:** $10-20K USD en sensores + $25K/año Tier0
-
----
-
-### 3. 🟢 Control de Fermentación
-
-**Por qué les duele:** La fermentación del vino tinto genera calor. Si pasa de 28-30°C, mueren las levaduras y se arruina el vino. Controlar temperatura en 50+ tanques simultáneos es complejo.
-
-**Qué vendemos:**
-- Sensores de temperatura SUPcon en cada tanque
-- Válvulas de control para chaquetas de frío
-- SCADA o Tier0 para monitoreo centralizado de todos los tanques
-
-**Ticket estimado:** $30-50K USD (sensores + válvulas + plataforma)
-
----
-
-### 4. 🟢 Monitoreo Energético (Paneles Solares + Consumo)
-
-**Por qué les duele:** Tienen paneles solares instalados. Necesitan demostrar ROI de la inversión y reportar indicadores de sustentabilidad a sus mercados de exportación (Europa exige huella de carbono).
-
-**Qué vendemos:**
-- Medidores de energía en puntos clave (bodega, bombas, línea de embotellado)
-- Tier0 consolidando generación solar vs consumo
-- Dashboard de sustentabilidad para reportes ESG
-
-**Ticket estimado:** $8-15K USD en instrumentación + $25K/año Tier0
-
----
-
-### 5. 🟢 Trazabilidad — Del Viñedo a la Botella
-
-**Por qué les duele:** Exportan a 78 países. Cada lote debe ser trazable. Hoy probablemente usan planillas Excel + ERP. Si un cliente en Londres reclama un lote, necesitan saber en 5 minutos de qué cuartel salió la uva.
-
-**Qué vendemos:**
-- Tier0 como capa unificada: viñedo → cosecha → fermentación → guarda → embotellado → despacho
-- Integración con su ERP existente
-- Dashboard de trazabilidad para auditoría de clientes
-
-**Ticket estimado:** $30-50K USD implementación + $25K/año licencia
+| Empresa | Oportunidad | Ticket (USD) |
+|---|---|---|
+| Cosayach | Bombeo agua de mar | $20-40K |
+| Cosayach | Monitoreo ambiental | $25-50K |
+| Cosayach | Lixiviación caliche | $30-60K |
+| Cosayach | Subestaciones eléctricas | $80-150K |
+| Atacama Kozan | Monitoreo equipos rotatorios | $30-50K |
+| Atacama Kozan | Control de procesos | $100-200K |
+| Simco/Maricunga | Tier0 greenfield | $50-100K |
+| Simco/Maricunga | Instrumentación pozos | $40-80K |
+| Viñas | Monitoreo RILes | $15-25K |
+| **TOTAL ESTIMADO** | | **$390-755K USD** |
 
 ---
 
 ## ESTRATEGIA DE ENTRADA
 
-### Por dónde entrar primero
+El caballo de Troya es **Cosayach**. Es una operación activa, facturando, con necesidades reales. Si entramos por el sistema de bombeo de agua de mar o monitoreo ambiental, ya estamos dentro del grupo.
 
-El caballo de Troya es **sustentabilidad + cumplimiento SMA**. La planta de RILes es una obligación legal. Si les vendemos monitoreo de RILes, ya estamos adentro. Luego escalamos a bodega y fermentación.
+Una vez adentro:
+1. Cosayach → expandir a las 3 plantas y subestaciones
+2. Atacama Kozan → misma área geográfica (norte), mismo perfil industrial
+3. Simco/Maricunga → Tier0 greenfield, referenciando lo hecho en Cosayach
+4. Viñas → Tier0 para sustentabilidad, referenciando lo hecho en minería
 
-### Argumento de venta
+### Contactos a buscar
 
-"Errázuriz es la 5ta marca de vino más admirada del mundo. Sus clientes en Europa y Asia esperan excelencia. Un lote perdido por una falla de temperatura no solo cuesta plata — cuesta reputación. Nosotros nos aseguramos de que eso no pase."
-
-### Quién decide
-
-1. **Andrés Izquierdo** — Gerente Corporativo de Administración, Finanzas y Operaciones. Es quien aprueba inversiones en infraestructura. Contacto operativo clave.
-2. **Eduardo Chadwick** — Presidente. No es operativo pero es la cara visible. Contactar solo si Izquierdo abre la puerta.
-3. **Enólogo jefe** — No aprueba presupuesto pero si él dice "necesito esto", presionan a finanzas.
-
-### Próximo paso
-
-1. Buscar a Andrés Izquierdo en LinkedIn
-2. Mandarle mensaje corto: "Andrés, trabajamos con viñas en monitoreo de RILes y eficiencia hídrica. ¿Te sirve una conversación de 15 minutos?"
-3. Si muerde, preparar demo con datos simulados de una bodega
-
----
-
-## LO QUE NO SABEMOS (investigar en reunión)
-
-- ¿Qué sistema de control tienen hoy? (PLCs, SCADA, manual)
-- ¿Tienen proveedor de instrumentación actual?
-- ¿Presupuesto de inversión 2026-2027?
-- ¿Están ampliando la bodega o solo manteniendo?
-- ¿Quién maneja el contrato de energía solar?
+- **Cosayach:** Gerente de Operaciones / Gerente de Planta (Cala-Cala, Pozo Almonte)
+- **Atacama Kozan:** Gerente de Mantención / Gerente de Procesos
+- **Grupo Errázuriz:** Francisco Javier Errázuriz (fundador) o directorio corporativo
+- **Viñas:** Andrés Izquierdo (Gerente Corp. Admin/Finanzas/Ops)
 
 ---
 
